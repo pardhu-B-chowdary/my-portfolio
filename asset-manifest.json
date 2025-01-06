@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.2445eab4.css",
+    "main.js": "/my-portfolio/static/js/main.15d012d1.js",
+    "static/media/pardhu resume.pdf": "/my-portfolio/static/media/pardhu resume.696bb4727a7e4ead3880.pdf",
+    "static/media/college.jpg": "/my-portfolio/static/media/college.a5e3a5f4b826c2ab6bfa.jpg",
+    "static/media/minipj.jpg": "/my-portfolio/static/media/minipj.98a307c251033141fa57.jpg",
+    "static/media/Deep-Learning.jpg": "/my-portfolio/static/media/Deep-Learning.0d36d99dc2fa7b9caa24.jpg",
+    "static/media/ssc.jpg": "/my-portfolio/static/media/ssc.7b459967245c513b332b.jpg",
+    "static/media/TSBIE.jpg": "/my-portfolio/static/media/TSBIE.43730031286c1eb1ffb6.jpg",
+    "static/media/Pardhu_edited.jpg": "/my-portfolio/static/media/Pardhu_edited.6907f6c9735c6a10d517.jpg",
+    "static/media/crissxcross.png": "/my-portfolio/static/media/crissxcross.2efcb5479a3de32c0647.png",
+    "index.html": "/my-portfolio/index.html",
+    "main.2445eab4.css.map": "/my-portfolio/static/css/main.2445eab4.css.map",
+    "main.15d012d1.js.map": "/my-portfolio/static/js/main.15d012d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2445eab4.css",
+    "static/js/main.15d012d1.js"
+  ]
+}
